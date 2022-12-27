@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BinBank</string>
+    <string name="search_button_text">Найти по номеру</string>
+    <string name="show_history_button_text">Показать историю</string>
+</resources>
